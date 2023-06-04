@@ -16,4 +16,6 @@ QoL mods:
   <br>MouseTweaks -- for enhanced inventory management and crafting
   <br>Crafting Tweaks -- see above
   <br>Anti Ghost -- helpfull to get rid of ghost blocks
-  <br>JourneyMap -- A minimap to help you find your 
+  <br>JourneyMap -- A minimap to help you find your
+  <br>Accurate block placement -- makes placing multiple blocks in quick succession easier 
+        	
